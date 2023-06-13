@@ -1,1 +1,1 @@
-"# kitty-rush-scratch" 
+# kitty-rush-scratch
